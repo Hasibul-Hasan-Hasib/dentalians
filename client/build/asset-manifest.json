@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78644dec.chunk.css",
+    "main.js": "/static/js/main.18e5b201.chunk.js",
+    "main.js.map": "/static/js/main.18e5b201.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc67da5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc67da5b.js.map",
+    "static/js/2.298ef708.chunk.js": "/static/js/2.298ef708.chunk.js",
+    "static/js/2.298ef708.chunk.js.map": "/static/js/2.298ef708.chunk.js.map",
+    "static/js/3.5295ff0e.chunk.js": "/static/js/3.5295ff0e.chunk.js",
+    "static/js/3.5295ff0e.chunk.js.map": "/static/js/3.5295ff0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.78644dec.chunk.css.map": "/static/css/main.78644dec.chunk.css.map",
+    "static/js/2.298ef708.chunk.js.LICENSE.txt": "/static/js/2.298ef708.chunk.js.LICENSE.txt",
+    "static/media/Doctors-pana.f18be98b.png": "/static/media/Doctors-pana.f18be98b.png",
+    "static/media/beautiful-dentist-working-dental-clinic.c4d2c506.jpg": "/static/media/beautiful-dentist-working-dental-clinic.c4d2c506.jpg",
+    "static/media/happy-young-woman-smiling.75560f83.jpg": "/static/media/happy-young-woman-smiling.75560f83.jpg",
+    "static/media/pexels-anna-shvets-4167541.71379e8a.jpg": "/static/media/pexels-anna-shvets-4167541.71379e8a.jpg",
+    "static/media/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw.f267be10.jpg": "/static/media/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw.f267be10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc67da5b.js",
+    "static/js/2.298ef708.chunk.js",
+    "static/css/main.78644dec.chunk.css",
+    "static/js/main.18e5b201.chunk.js"
+  ]
+}

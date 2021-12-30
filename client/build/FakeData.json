@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "DENTAL SERVICES",
+        "title": "Teeth",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "26.45",
+        "rating": "4.3",
+        "img": "https://i.ibb.co/pjT82ct/shutterstock-77455267-320x200.jpg"
+    },
+    {
+        "id": 2,
+        "name": "IMPLANTS",
+        "title": "If you lost yours",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "35.04",
+        "rating": "3.3",
+        "img": "https://i.ibb.co/BC9Jf3S/shutterstock-118733071-320x200.jpg"
+    },
+    {
+        "id": 3,
+        "name": "DENTISTRY",
+        "title": "Cosmetic",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "46.47",
+        "rating": "4.6",
+        "img": "https://i.ibb.co/fG2nmkN/shutterstock-124314160-320x200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DENTAL BRIDGES",
+        "title": "The best solution",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "76.87",
+        "rating": "4.00",
+        "img": "https://i.ibb.co/d2jjzKp/shutterstock-142427935-320x200.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CROWNS",
+        "title": "Painless fixes",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "56.43",
+        "rating": "3.9",
+        "img": "https://i.ibb.co/hBN7Tz8/shutterstock-156787064-320x200.jpg"
+    },
+    {
+        "id": 6,
+        "name": "INVISALIGN",
+        "title": "Line them all up",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "39.00",
+        "rating": "4.9",
+        "img": "https://i.ibb.co/dbqSHHD/shutterstock-227481766-320x200.jpg"
+    },
+    {
+        "id": 7,
+        "name": "VENEERS",
+        "title": "Porcelain",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "21.98",
+        "rating": "4.3",
+        "img": "https://i.ibb.co/0qMMrWv/shutterstock-192351722-320x200.jpg"
+    },
+    {
+        "id": 8,
+        "name": "TEETH WHITENING",
+        "title": "Beautify your smile",
+        "description": "Dental Implants are small titanium screws that allow bone to grow in and around it. They are inserted in the jaw bone to mimic the teeth root and in due time an artificial tooth is attached with it to replace the missing tooth. Then the treatment is finished and the new tooth on implant looks and works just like a natural tooth. For patients who have no teeth, with the help of implants, we can restore full functional set of teeth for them. The functionality and appearance of implant supported tooth is as good as any natural tooth. So if you have any missing tooth, dental implants can be your 2nd permanent tooth.",
+        "price": "29.99",
+        "rating": "4.3",
+        "img": "https://i.ibb.co/Lp65KC9/shutterstock-270756593-320x200.jpg"
+    }
+]

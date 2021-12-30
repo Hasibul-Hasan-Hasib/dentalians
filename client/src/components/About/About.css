@@ -1,0 +1,26 @@
+.about-container{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.img-side{
+    width: 50%;
+    text-align: left;
+}
+.about-img{
+    width: 80%;
+}
+.heading-side{
+    width: 50%;
+    text-align: left;
+}
+.about-heading{
+    font-size: 3rem;
+}
+.about-para{
+    font-size: 1rem;
+    color: gray;
+    margin: 2rem 0 3rem;
+}

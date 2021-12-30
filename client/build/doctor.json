@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Adam Palmer",
+        "about": "The qualities of excellent communication and trust form part of our commitment to you and I have carefully chosen a great team of people.",
+        "title": "Clinic Director",
+        "img": "https://i.ibb.co/2vV1Q8j/people-adam-palmer.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kate Seward",
+        "about": "Emphatic and enjoying treating a wide range of patients, including children, oral hygiene and education is important to me as to my patients.",
+        "title": "Clinic Director",
+        "img": "https://i.ibb.co/xjgB1KH/people-kate-seward.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Xavier Symmonds",
+        "about": "Committed to delivering dentistry of the highest quality, Xavier achieved numerous awards over Europe and United States.",
+        "title": "Clinic Director",
+        "img": "https://i.ibb.co/16VQmRy/people-xavier-symmonds.jpg"
+    }
+]

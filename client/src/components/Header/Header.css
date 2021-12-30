@@ -1,0 +1,49 @@
+.primary-color {
+  color: #1597E5;
+}
+.secondary-color {
+  color: #808080;
+}
+
+.nav-container {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-2 {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .nav-1 {
+    display: none;
+  }
+  .nav-2 {
+    display: block;
+  }
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo-title {
+  font-size: 26px;
+}
+
+.logo {
+  height: 4rem;
+}
+.link-container {
+  display: flex;
+  align-items: center;
+  text-align: right;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  margin: 0.5rem;
+}
